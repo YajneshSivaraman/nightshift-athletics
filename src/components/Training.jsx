@@ -11,7 +11,7 @@ const programs = [
     description:
       "Develop raw strength, controlled movement, and the discipline to push beyond your limits.",
     image:
-       "https://unsplash.com/photos/QkK7NtsPrJM/download?force=true",
+      "strength.jpg",
    className: "md:col-span-6",
   },
   {
