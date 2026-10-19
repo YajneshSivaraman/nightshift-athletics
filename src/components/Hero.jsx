@@ -36,7 +36,7 @@ className="relative isolate mt-0 min-h-[100svh] w-full overflow-hidden bg-[#0808
         className="absolute inset-0"
       >
         <img
-          src="https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=2000&q=90"
+          src="Hero Image.jpg"
           alt="Athlete in a focused training pose"
           fetchPriority="high"
           className="h-full w-full object-cover object-[55%_center] opacity-80 grayscale-[35%]"
